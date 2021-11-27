@@ -29,7 +29,6 @@ class Usuario
     $this->nome = $nome;
   }
 
-
   public function getLogin()
   {
     return $this->login;

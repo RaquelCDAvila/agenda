@@ -10,7 +10,7 @@ class Conexao
   }
 
   //unico ponto de acesso
-  static function getConnection()
+  public static function getConnection()
   { //getInstance
     //código de criação da conexão...
     if (!isset(self::$conexao)) {
