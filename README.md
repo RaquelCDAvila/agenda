@@ -1,8 +1,5 @@
 <h1>Projeto Sistema de agenda de contatos</h1>
 
-<h1>Rafa Lindo <3</h1>
-
-
 >Status: Em desenvolvimento ⚠️
 
 ## Objetivo:
