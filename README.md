@@ -15,7 +15,7 @@ Construção de um aplicativo para plataforma web que consiste de uma agenda de 
 ## Características do usuário:
 Usuário: responsáveis pelo gerenciamento os contatos.
 
-## Restrinções:
+## Restrições:
 Nenhuma restrição foi identificada.
 
 ## Assunções e dependências:
